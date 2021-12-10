@@ -23,6 +23,24 @@ html, body {
     font-size: 16px;
 }
 
+img {
+    display: block;
+    width: 100%;
+  }
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.container.image{
+    max-width: 1200px;
+    padding: 0;
+    font-size: 14px;
+  
+  }
+
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
